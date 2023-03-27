@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <title>Blog</title>
+</head>
+<body>
+    <h1>Tags aprendidas</h1>
+    <h2>Indice</h2>
+    <ul>
+        <li><a href="#texto">Tags para Texto</a></li>
+        <li><a href="#listas">Tags de Listas</a></li>
+        <li><a href="#links">Tags para Links</a></li>
+        <li><a href="#variadas">Tags Variadas</a></li>
+    </ul>
+
+    <h3 id="texto">Tags para Texto</h3>
+    <p>Começamos pelas tag h1 até h6, essas tags servem como titulo e substitulos da página, tendo assim uma ordem decrescente, a tag h1 a fonte é grande e em negrito, na tag h2 a fonte é menor, e assim por diante. Tag p é usada para paragrafos. Tag mark é usada para dar destaque em um trecho. Exemplo: <mark>Tag Mark</mark>
+    Tag small é usada para deixar a fonte do texto menor<small>Exemplo</small>
+    Tag i é usada para deixar o texto em italico. <i>Exemplo</i>. A tag u é usada para sublinhar elementos. <u>Exemplo</u>.
+    Tag strong é usada para deixar o texto em negrito. <strong>Exemplo</strong>.
+    A tag sub é usada para deixar o texto subscrito, aparece meio caractere abaixo da linha normal e, as vezes, é renderizado em uma fonte menor. <sub>Exemplo</sub>.
+    A tag sup é o contrario da sub, ela coloca o texto meio caracter acima da linha e a fonte é menor na maior parte das vezes. <sup>Exemplo</sup>.
+    A tag blockquote é usada pra indicar que o texto incluido é uma citação extendida.
+    </p>
+    <h3 id="listas">Tags de Listas</h3>
+    <p>Utilizadas para fazer uma lista na página as tags ol e ul são muito usadas. Tag ol é para listar ordenadas e a tag ul é para listas não ordenadas. Dentro das tags usamos outra tag li para digitar qual o conteudo da lista</p>
+
+    <h3 id="links">Tags para Links</h3>
+    <p>Tag a é usada para adicionar links na pagina, usamos o paramento href para adicionar o link.</p>
+
+    <h3 id="variadas">Tags Variadas</h3>
+    <p>A tag hr é usada para adicionar uma linha horizontal separando os conteudos de uma página web. 
+        A tag font é usada para especificar a fonte, o tamanho e a cor do texto. Essa tag foi removida do HTML5 e agora passa a ser usada no CSS3
+
+    </p>
+
+</body>
+</html>
